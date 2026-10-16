@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/readme-sync-with-codebase",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/readme-sync-with-codebase": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/readme-sync-with-codebase",
+    "origin"
+  ]
+}
